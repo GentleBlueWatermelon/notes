@@ -2,4 +2,4 @@
 
 - [Git](/docs/Git.md)
 - [Linux](/docs/Linux.md)
-- [Linux](/docs/Docker.md)
+- [Docker](/docs/Docker.md)
