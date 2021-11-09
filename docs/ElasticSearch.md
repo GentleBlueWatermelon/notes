@@ -153,4 +153,4 @@ GET _analyze
 
 > 常用操作
 
-![img.png](https://imgtu.com/i/IY884U)
+[![IY884U.png](https://z3.ax1x.com/2021/11/09/IY884U.png)](https://imgtu.com/i/IY884U)
