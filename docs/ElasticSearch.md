@@ -144,13 +144,13 @@ GET _analyze
 
 > 新建分词器字典 加入到分词器配置文件中
 
-![img.png](../images/ElasticSearch/1.png)
-![img.png](../images/ElasticSearch/2.png)
+![img.png](https://imgtu.com/i/IY3Hn1)
+![img.png](https://imgtu.com/i/IY8Z9g)
 
 > 重启 ElasticSearch 效果如下
 
-![img.png](../images/ElasticSearch/3.png)
+![img.png](https://imgtu.com/i/IY8QH0)
 
 > 常用操作
 
-![img.png](../images/ElasticSearch/4.png)
+![img.png](https://imgtu.com/i/IY884U)
